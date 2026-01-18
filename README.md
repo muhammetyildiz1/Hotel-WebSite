@@ -1,11 +1,19 @@
-# Hotel Web Site
+# Hotel Website
 
-Bu proje bir otel web sitesi tasarımıdır.  
-Kullanılan teknolojiler: HTML, CSS.  
+This is a hotel website project.  
+It shows hotel rooms, restaurant, and other services.
 
-## Kurulum
-1. Proje dosyalarını kopyalayın.
-2. Tarayıcıda `index.html` dosyasını açın.
+## Files
 
-## Notlar
-- Video GitHub’a yüklenmedi, repo boyutunu aşmamak için `.gitignore` ile hariç tutuldu.
+- `index.html` - main page  
+- `resimler/` - images  
+- `video/` - videos (not in GitHub)  
+
+## How to use
+
+1. Copy the project files.  
+2. Open `index.html` in your browser.
+
+## Note
+
+- Large files like `.mp4` and `.exe` are not uploaded to GitHub.
